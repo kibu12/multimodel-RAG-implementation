@@ -230,5 +230,3 @@ python debug_tester.py
 Kirubashankar V
 GitHub: https://github.com/kibu12
 ---
-
-If you want, I can also create a **more impressive recruiter-level README (with badges, screenshots, and portfolio quality)**.
