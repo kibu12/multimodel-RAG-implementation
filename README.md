@@ -213,18 +213,4 @@ Multimodal RAG systems can be used in:
 * Production API deployment
 * UI interface for querying
 
----
-
-# Contributing
-
-Contributions are welcome.
-
-Steps:
-
-1. Fork the repository
-2. Create a new branch
-3. Commit your changes
-4. Submit a pull request
-
----
 
