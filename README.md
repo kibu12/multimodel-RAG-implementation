@@ -1,9 +1,3 @@
-Here is a **clean, professional, ATS-level GitHub README** you can use for
-`multimodel-RAG-implementation`.
-It is written to make the repository look **research-level and recruiter-friendly**.
-
----
-
 # Multimodal RAG Implementation
 
 A **Multimodal Retrieval-Augmented Generation (RAG)** pipeline that retrieves and generates responses using information from multiple modalities such as **text, images, and documents**.
